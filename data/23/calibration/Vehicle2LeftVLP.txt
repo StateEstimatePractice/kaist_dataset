@@ -1,0 +1,5 @@
+Left Velodyne (VLP-16) extrinsic calibration parameter from vehicle
+RPY(roll/pitch/yaw, degree), R(rotation matrix), T(translation matrix)
+RPY: 1.42947 44.5011 136.385
+R: -0.516377 -0.702254 -0.490096 0.491997 -0.711704 0.501414 -0.700923 0.0177927 0.713015 
+T: -0.334623 0.431973 1.94043
